@@ -1,5 +1,5 @@
 {
-  "name": "ng-inf-scroll-dk",
+  "name": "ng-inf-scroll",
   "version": "0.0.1",
   "description": "Angular directive that triggers a user specified callback when scrolled to the bottom of an overflow-scrolled parent container",
   "authors": [
