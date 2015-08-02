@@ -1,0 +1,30 @@
+{
+  "name": "ng-inf-scroll",
+  "version": "0.0.1",
+  "description": "Angular directive that triggers a user specified callback when scrolled to the bottom of an overflow-scrolled parent container",
+  "authors": [
+    "Decki Kwok <deckikwok@gmail.com> (http://example.com)"
+  ],
+  "license": "The MIT License (MIT)",
+  "homepage": "still not pushed to gitpage to store",
+  "main": "./src/ng-inf-scroll.js",
+  "keywords": [
+    "angular",
+    "directives",
+    "infinite",
+    "scroll"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "examples",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": ">= 1.4.3"
+  },
+  "devDependencies": {
+    "angular-mocks": ">= 1.1.7"
+  }
+}
