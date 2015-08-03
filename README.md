@@ -1,6 +1,11 @@
+<iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=nginfscroll" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+
+<a href="http://badge.fury.io/bo/ngInfScroll"><img src="https://badge.fury.io/bo/ngInfScroll.svg" alt="Bower version" height="18"></a>
+
 ng-inf-scroll
 ================
 A simple Angular directive that triggers a user-specified callback when the user scrolls to the bottom of a overflow:scroll-ed container.
+<img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/>
 
 FEATURES
 --------
